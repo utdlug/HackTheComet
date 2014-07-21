@@ -14,7 +14,6 @@ line-height: 1.6em;
 .logo {
 width: 100% !important;
 max-width: 800px !important;
-
 }
 
 a {
@@ -74,43 +73,49 @@ user-select: none;
 background-image: none;
 border: 1px solid transparent;
 border-radius: 0;
-}
-
-.btn-danger {
-    margin-top: 100px;
+margin-top: 100px;
 }
 
 ::-webkit-input-placeholder { color: #3a414c !important; }
 
+h1 {
+padding-top: 10px;
+}
+
+#info {
+color: #bad7e2;
+font-size: 18px;
+
+}
+
+#infoTopic {
+color: #77c3e2;
+padding-left: 30px;
+padding-right: 30px;
+font-weight: 900;
+}
+
+#details {
+padding-left: 10px;
+color: #fff;
+
+}
 #wrapper {
 text-align: center;
 padding: 0 !important;
 background: url(../img/space.jpg) no-repeat center top;
 background-attachment: relative;
 background-position: center center;
-min-height: 650px;
+min-height: 600px;
 width: 100%;
 -webkit-background-size: 100%;
 -moz-background-size: 100%;
 -o-background-size: 100%;
 background-size: 100%;
-
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-}
-
-#wrapper h1 {
-color: #fff;
-font-size: 45px;
-font-weight: 900;
-letter-spacing: -1px;
-}
-
-h2.subtitle {
-color: #fff;
-font-size: 24px;
 }
 
 /* future countdown */
@@ -121,8 +126,16 @@ line-height: 1.1em;
 margin: 40px 0 60px;
 }
 
-p.copyright {
-margin-top: 50px;
+#hInfo {
+margin-top: 100px;
 color: #fff;
 text-align: center;
+padding-bottom: 50px;
+}
+
+h3 {
+    color: #e6f6fc;
+    font-size: 22px;
+    padding-bottom: 20px;
+    margin-left: 10px;
 }
