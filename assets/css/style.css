@@ -17,9 +17,10 @@ margin-left: -30px !important;
 
 h1 {
 font-size: 70px !important;
-font-family: 'Play', sans-serif;
+/*font-family: 'Play', sans-serif;*/
 /*color: #ffa471 !important;*/
 }
+
 a {
 color: #ACBAC1;
 word-wrap: break-word;
@@ -89,17 +90,8 @@ color: #fff;
 background-color: #444;
 border-color: #444;
 }
-form.signup input  {
-height: 42px;
-width: 200px;
-border-radius: 0;
-border: none;
-/*background-color: #b5c7e7;*/
-background-color: rgba(181,199,231,0.7);
-}
 
 ::-webkit-input-placeholder { color: #3a414c !important; }
-
 
 #wrapper {
 text-align: center;
@@ -120,8 +112,6 @@ background-size: 100%;
 background-size: cover;
 }
 
-
-
 #wrapper h1 {
 color: #fff;
 font-size: 45px;
@@ -134,7 +124,7 @@ color: #fff;
 font-size: 24px;
 }
 
-/* countdown */
+/* future countdown */
 #countdown {
 font-size: 48px;
 color: #fff;
@@ -142,8 +132,6 @@ line-height: 1.1em;
 margin: 40px 0 60px;
 }
 
-
-/* footer */
 p.copyright {
 margin-top: 50px;
 color: #fff;
