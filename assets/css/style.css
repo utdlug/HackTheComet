@@ -12,13 +12,9 @@ line-height: 1.6em;
 }
 
 .logo {
-margin-left: -30px !important;
-}
+width: 100% !important;
+max-width: 800px !important;
 
-h1 {
-font-size: 70px !important;
-/*font-family: 'Play', sans-serif;*/
-/*color: #ffa471 !important;*/
 }
 
 a {
@@ -80,15 +76,8 @@ border: 1px solid transparent;
 border-radius: 0;
 }
 
-.btn-theme  {
-color: #fff;
-background-color: #4F92AF;
-border-color: #4F92AF;
-}
-.btn-theme:hover  {
-color: #fff;
-background-color: #444;
-border-color: #444;
+.btn-danger {
+    margin-top: 100px;
 }
 
 ::-webkit-input-placeholder { color: #3a414c !important; }
