@@ -73,7 +73,7 @@ user-select: none;
 background-image: none;
 border: 1px solid transparent;
 border-radius: 0;
-margin-top: 110px;
+margin-top: 70px;
 }
 
 ::-webkit-input-placeholder { color: #3a414c !important; }
@@ -120,10 +120,10 @@ background-size: cover;
 
 /* future countdown */
 #countdown {
-font-size: 48px;
+font-size: 24px;
 color: #fff;
-line-height: 1.1em;
-margin: 40px 0 60px;
+margin-top: 20px;
+opacity:0.2;
 }
 
 #hInfo {
@@ -143,12 +143,14 @@ margin-top: 40px;
 
 h2 {
 color: #b7cbd3;
+opacity:0.9;
 }
 
 h5 {
 margin-top: -15px;
 color: #fff;
 font-size: 17px;
+padding-bottom: 110px;
 }
 
 a.sponsor {
