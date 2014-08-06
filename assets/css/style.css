@@ -148,6 +148,7 @@ color: #b7cbd3;
 h5 {
 margin-top: -15px;
 color: #fff;
+font-size: 16px;
 }
 
 a.sponsor {
@@ -158,6 +159,6 @@ color: #fff;
 }
 
 a.sponsor:hover{
-border-bottom: 1px dotted #4F92AF;
-color: #4F92AF;
+border-bottom: 1px dotted #81d3f6;
+color: #81d3f6;
 }
