@@ -144,3 +144,20 @@ margin-top: 40px;
 h2 {
 color: #b7cbd3;
 }
+
+h5 {
+margin-top: -15px;
+color: #fff;
+}
+
+a.sponsor {
+border-bottom: 1px dotted #fff;
+text-decoration: none;
+font-weight: 700;
+color: #fff;
+}
+
+a.sponsor:hover{
+border-bottom: 1px dotted #4F92AF;
+color: #4F92AF;
+}
